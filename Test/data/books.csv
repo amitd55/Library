@@ -1,0 +1,2 @@
+title,author,is_loaned,copies,genre,year,loaned_count,waiting_list,copies_available,popularity_count
+Test Book,Author,False,2,Fiction,2022,0,,1,0
